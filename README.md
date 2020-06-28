@@ -1,6 +1,6 @@
 # signupappleid
 
-<img src="" width="300" height="560">
+<img src="https://github.com/loydkim/sign_up_apple_id/blob/master/sign_up_apple_id.gif" width="300" height="560">
 
 ** Please click the Image to know how it works **
 
