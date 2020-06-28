@@ -2,6 +2,8 @@
 
 <img src="https://github.com/loydkim/sign_up_apple_id/blob/master/sign_up_apple_id.gif" width="300" height="560">
 
+Before Start it, you should set up a Firebase environment in your flutter project.
+
 ** Please click the Image to know how it works **
 
 [![Youtube](https://img.youtube.com/vi/VzRWh5QB3U8/0.jpg)](https://youtu.be/VzRWh5QB3U8)
